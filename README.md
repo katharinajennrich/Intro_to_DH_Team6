@@ -16,6 +16,11 @@ After World War II, Germany was divided into East and West Germany, while Berlin
 
 ## Concerns, Observations and Challenges
 
+- **Challenge:** first reseach question got rejected for lacking data and incongruous RQ + Thesis, filtering our data by location - too large to do manually, may be challenging to automate
+- **Concern:** must ensure thesis does not claim causation for elements known only via additional literature
+- **Decision:** whether we should combine all of the greater area of Wilmersdorf, or do we take just the smaller district of Wilmersdorf
+
+
 ## Sources
 
 
