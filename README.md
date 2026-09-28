@@ -8,6 +8,20 @@ After World War II, Germany was divided into East and West Germany, while Berlin
 
 ## Dataset Information
 
+The dataset was created by **Noah Baumann** at Humboldt-Universität zu Berlin and is based on the manual transcription of 36 historical timetable books from the Berlin public transport authority (BVG), held in the BVG Archive and the Jacob and Wilhelm Grimm Centre Library.
+
+Data for the whole of Berlin is available for **1946 and 1951**, while from 1956 onwards the data is divided into **East Berlin and West Berlin**. The selected years provide at least one observation per five-year period, with additional years covering historically significant periods such as the early 1960s and the construction of the Berlin Wall.
+
+It contains **19,758 station entries, 2,099 line entries, and 28,982 unique connections** and is structured into three relational CSV files:
+- `stations.csv`- information on stations, including names, transport type, geographic coordinates, served lines, and Wikidata identifiers
+- `lines.csv`- information on transport lines, including year, travel time, frequency, length, administrative zone, and start and end stations
+- `line_stops.csv`- the sequence of stops served by each transport line
+
+The data includes several modes of public transportation, including **tram, underground (U-Bahn), suburban railway (S-Bahn), bus, trolleybus, and ferry**. Geographic coordinates were determined using Wikidata, historical maps, route descriptions, intersection analysis, and distance validation between consecutive stations.
+
+Besides, the dataset has several **limitations** that are relevant to our analysis. Bus and tram stops are not recorded in full: before 1975, the timetable books include only stops considered important, while West Berlin records all stops from 1975 onwards. S-Bahn information has to be supplemented using Reichsbahn sources because the S-Bahn was not operated by the BVG. In addition, frequency data represents the scheduled service at **7:30 on weekdays** and therefore does not capture variations throughout the day, week, or season. Some historical bus and tram locations are also approximated using intersections and may not correspond exactly to their original historical locations.
+
+
 ## Research Question
 
 ## Methodology
@@ -16,10 +30,9 @@ After World War II, Germany was divided into East and West Germany, while Berlin
 
 ## Concerns, Observations and Challenges
 
-- **Challenge:** first reseach question got rejected for lacking data and incongruous RQ + Thesis, filtering our data by location - too large to do manually, may be challenging to automate
-- **Concern:** must ensure thesis does not claim causation for elements known only via additional literature
-- **Decision:** whether we should combine all of the greater area of Wilmersdorf, or do we take just the smaller district of Wilmersdorf
-
+- **Challenge:** Our first research question was rejected because of limited data availability and an insufficient alignment between the research question and the thesis. Filtering the dataset by location is also challenging, as the dataset is too large to process manually and may require an automated approach.
+- **Concern:** We need to ensure that the thesis does not make causal claims about factors that are only identified through additional literature rather than directly supported by our dataset.
+- **Decision:** We need to decide whether to use the broader area of Wilmersdorf or focus specifically on the smaller historical district of Wilmersdorf for our analysis.
 
 ## Sources
 
