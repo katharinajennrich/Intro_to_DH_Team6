@@ -6,7 +6,7 @@ This is a Digital Humanities project which investigates the relationship between
 
 After World War II, Germany was divided into East and West Germany, while Berlin was itself divided into different sectors. The political division had major consequences for mobility and transportation within the city as movement between the eastern and western parts became increasingly restricted. The construction of the Berlin Wall in 1961 further reinforced this separation, dividing communities and disrupting existing transportation connections.
 
-## Dataset Information
+## Dataset Biography
 
 The dataset was created by **Noah Baumann** at Humboldt-Universität zu Berlin and is based on the manual transcription of 36 historical timetable books from the Berlin public transport authority (BVG), held in the BVG Archive and the Jacob and Wilhelm Grimm Centre Library.
 
@@ -21,10 +21,9 @@ The data includes several modes of public transportation, including **tram, unde
 
 Besides, the dataset has several **limitations** that are relevant to our analysis. Bus and tram stops are not recorded in full: before 1975, the timetable books include only stops considered important, while West Berlin records all stops from 1975 onwards. S-Bahn information has to be supplemented using Reichsbahn sources because the S-Bahn was not operated by the BVG. In addition, frequency data represents the scheduled service at **7:30 on weekdays** and therefore does not capture variations throughout the day, week, or season. Some historical bus and tram locations are also approximated using intersections and may not correspond exactly to their original historical locations.
 
-
 ## Research Question
 
-## Methodology
+## Thesis Statement
 
 ## Repository Structure
 
@@ -33,6 +32,8 @@ Besides, the dataset has several **limitations** that are relevant to our analys
 - **Challenge:** Our first research question was rejected because of limited data availability and an insufficient alignment between the research question and the thesis. Filtering the dataset by location is also challenging, as the dataset is too large to process manually and may require an automated approach.
 - **Concern:** We need to ensure that the thesis does not make causal claims about factors that are only identified through additional literature rather than directly supported by our dataset.
 - **Decision:** We need to decide whether to use the broader area of Wilmersdorf or focus specifically on the smaller historical district of Wilmersdorf for our analysis.
+
+## Use of Generative AI
 
 ## Sources
 
