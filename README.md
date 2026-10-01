@@ -1,6 +1,6 @@
 # Modelling Temporal Public Transport Systems: Cold-War Berlin
 
-This is a Digital Humanities project which investigates the relationship between the political division of Germany and the development of Berlin’s transport network between 1949 and 1989.
+This is a Digital Humanities project which investigates the relationship between the political division of Germany and the development of Berlin’s transport network between 1946 and 1989.
  
 ## Context
 
