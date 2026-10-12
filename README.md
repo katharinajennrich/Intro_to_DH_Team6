@@ -20,7 +20,7 @@ After the end of the second World War, Berlin went through a political division 
 | ----------------- | -------------------------------------------------------------------|
 | `Analysis`       | contains Jupyter notebooks, scripts, and queries                   |
 | `Dataset`        | stores raw, processed, and external datasets                       |
-| `Docs`           | contains project documentation, including the workflow diagram     |
+| `Docs`           | contains all project and analysis documentation  |
 | `Results`        | stores summary of findings and presentation materials            |
 | `Visualizations` | contains graphs, figures, charts and other visual outputs          |
 
@@ -42,9 +42,9 @@ Data for the whole of Berlin is available for 1946 and 1951, while from 1956 onw
 
 It contains 19,758 station entries, 2,099 line entries, and 28,982 unique connections and is structured into three relational CSV files:
 
-`stations.csv` - information on stations, including names, transport type, geographic coordinates, served lines, and Wikidata identifiers
-`lines.csv`- information on transport lines, including year, travel time, frequency, length, administrative zone, and start and end stations
-`line_stops.csv` - the sequence of stops served by each transport line
+- `stations.csv` - information on stations, including names, transport type, geographic coordinates, served lines, and Wikidata identifiers
+- `lines.csv`- information on transport lines, including year, travel time, frequency, length, administrative zone, and start and end stations
+- `line_stops.csv` - the sequence of stops served by each transport line
 
 The data includes several modes of public transportation, including tram, underground (U-Bahn), suburban railway (S-Bahn), bus, trolleybus, and ferry. Geographic coordinates were determined using Wikidata, historical maps, route descriptions, intersection analysis, and distance validation between consecutive stations.
 
