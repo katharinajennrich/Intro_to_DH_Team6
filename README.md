@@ -1,41 +1,91 @@
 # Modelling Temporal Public Transport Systems: Cold-War Berlin
 
-This is a Digital Humanities project which investigates the relationship between the political division of Germany and the development of Berlin’s transport network between 1946 and 1989.
- 
-## Context
+After the end of the second World War, Berlin went through a political division between the communist East and capitalist West, which then followed by the construction of the Berlin Wall in 1961. This has prompted a much deeper division in the societal fabric of the city, best exemplified by the division of the public transport systems. For our project, we want to focus on two separate districts within West-Berlin: Kreuzberg and Wilmersdorf, and turn this into a comparative analysis of both districts in the light of these transformations in connectivity. 
 
-After World War II, Germany was divided into East and West Germany, while Berlin was itself divided into different sectors. The political division had major consequences for mobility and transportation within the city as movement between the eastern and western parts became increasingly restricted. The construction of the Berlin Wall in 1961 further reinforced this separation, dividing communities and disrupting existing transportation connections.
 
-## Dataset Biography
+## Table of Contents
 
-The dataset was created by **Noah Baumann** at Humboldt-Universität zu Berlin and is based on the manual transcription of 36 historical timetable books from the Berlin public transport authority (BVG), held in the BVG Archive and the Jacob and Wilhelm Grimm Centre Library.
+- [Research Question](#research-question)
+- [Thesis Statement](#thesis-statement)
+- [Dataset](#dataset)
+- [Workflow Diagram](#workflow-diagram)
+- [Main Findings](#main-findings)
+- [Team Members](#team-members)
+- [Use of Generative AI](#use-of-generative-ai)
 
-Data for the whole of Berlin is available for **1946 and 1951**, while from 1956 onwards the data is divided into **East Berlin and West Berlin**. The selected years provide at least one observation per five-year period, with additional years covering historically significant periods such as the early 1960s and the construction of the Berlin Wall.
-
-It contains **19,758 station entries, 2,099 line entries, and 28,982 unique connections** and is structured into three relational CSV files:
-- `stations.csv`- information on stations, including names, transport type, geographic coordinates, served lines, and Wikidata identifiers
-- `lines.csv`- information on transport lines, including year, travel time, frequency, length, administrative zone, and start and end stations
-- `line_stops.csv`- the sequence of stops served by each transport line
-
-The data includes several modes of public transportation, including **tram, underground (U-Bahn), suburban railway (S-Bahn), bus, trolleybus, and ferry**. Geographic coordinates were determined using Wikidata, historical maps, route descriptions, intersection analysis, and distance validation between consecutive stations.
-
-Besides, the dataset has several **limitations** that are relevant to our analysis. Bus and tram stops are not recorded in full: before 1975, the timetable books include only stops considered important, while West Berlin records all stops from 1975 onwards. S-Bahn information has to be supplemented using Reichsbahn sources because the S-Bahn was not operated by the BVG. In addition, frequency data represents the scheduled service at **7:30 on weekdays** and therefore does not capture variations throughout the day, week, or season. Some historical bus and tram locations are also approximated using intersections and may not correspond exactly to their original historical locations.
-
-## Research Question
-
-## Thesis Statement
 
 ## Repository Structure
 
-## Concerns, Observations and Challenges
+| Folder            | Description                                                        |
+| ----------------- | -------------------------------------------------------------------|
+| `Analysis`       | contains Jupyter notebooks, scripts, and queries                   |
+| `Dataset`        | stores raw, processed, and external datasets                       |
+| `Docs`           | contains project documentation, including the workflow diagram     |
+| `Results`        | stores summary of findings and presentation materials            |
+| `Visualizations` | contains graphs, figures, charts and other visual outputs          |
 
-- **Challenge:** Our first research question was rejected because of limited data availability and an insufficient alignment between the research question and the thesis. Filtering the dataset by location is also challenging, as the dataset is too large to process manually and may require an automated approach.
-- **Concern:** We need to ensure that the thesis does not make causal claims about factors that are only identified through additional literature rather than directly supported by our dataset.
-- **Decision:** We need to decide whether to use the broader area of Wilmersdorf or focus specifically on the smaller historical district of Wilmersdorf for our analysis.
+
+## Research Question
+
+How did public transportation connectivity in Kreuzberg compare to Wilmersdorf during the restructuring and division of Berlin between 1949 and 1989?
+
+
+## Thesis Statement
+
+
+
+## Dataset 
+
+The dataset was created by Noah Baumann at Humboldt-Universität zu Berlin and is based on the manual transcription of 36 historical timetable books from the Berlin public transport authority (BVG), held in the BVG Archive and the Jacob and Wilhelm Grimm Centre Library.
+
+Data for the whole of Berlin is available for 1946 and 1951, while from 1956 onwards the data is divided into East Berlin and West Berlin. The selected years provide at least one observation per five-year period, with additional years covering historically significant periods such as the early 1960s and the construction of the Berlin Wall.
+
+It contains 19,758 station entries, 2,099 line entries, and 28,982 unique connections and is structured into three relational CSV files:
+
+`stations.csv` - information on stations, including names, transport type, geographic coordinates, served lines, and Wikidata identifiers
+`lines.csv`- information on transport lines, including year, travel time, frequency, length, administrative zone, and start and end stations
+`line_stops.csv` - the sequence of stops served by each transport line
+
+The data includes several modes of public transportation, including tram, underground (U-Bahn), suburban railway (S-Bahn), bus, trolleybus, and ferry. Geographic coordinates were determined using Wikidata, historical maps, route descriptions, intersection analysis, and distance validation between consecutive stations.
+
+
+## Workflow Diagram
+
+Our workflow combines **data preprocessing, network analysis, and comparative analysis** to investigate public transport connectivity in Kreuzberg and Wilmersdorf across five snapshot years.
+
+### 1. Data preprocessing 
+
+Using GeoPandas, a Python mapping library, we assigned stations to the Kreuzberg and Wilmersdorf polygons, after swapping latitude and longitude, which the dataset stores in reverse order. We then linked stations to lines through the line stops table and selected five snapshot years: 1951, 1961, 1967, 1976 and 1984.
+
+### 2. Four connectivity analyses
+   
+We turned connectivity into four measurable analyses: a histogram of how often each line runs, a heat map of how many stops are reachable from each district, a coverage analysis of how much district area lies close to a station, and pie charts of transport modes, which we use only as a rough overview.
+
+### 3. Comparison and validation
+
+We kept lines with zero frequency as a separate grey category, because they only affect S-Bahn lines and look like irregular service, not removals. For coverage, a one kilometre radius covered everything, so we added 250 and 500 metres as a sensitivity check, to see whether results depend on distance. We also considered calculating an average frequency but total rides per day was not feasible so we made histograms instead. To validate, we visually checked the district on maps, and checked that our calculations add up to the total lines per district. Finally, we fixed scales across all charts, so years and districts are directly comparable.
+
+
+## Main Findings
+
+The connectivity of Kreuzberg and Wilmersdorf throughout the division of Berlin is largely comparable. However, a general trend in improved connectivity after 1951 can be observed in both districts.
+
+- **Heatmap**: no overwhelming differences visible in how far or how well reachable surrounding districts are, only a slight increase in districts with medium connectivity in later years
+- **Histogram**: both districts show similar changes in service frequency, with more lines departing every 5-10 minutes and fewer at intervals over 20 minutes in later years
+- **Coverage**: around 90% of both Kreuzberg and Wilmersdorf are within 500 meters of any public transit station, with no consistent advantage for either district 
+- **Piechart**: a decline in the diversity of transport types, with trams disappearing by 1976 and S-Bahn services becoming very limited by 1984, later be replaced with buses
+
+
+## Team Members
+- **Junfeng Hsu**: analytical writer (analysis, writing, problem-solving)
+- **Katharina Jennrich**: writer and quality control (writing, coding, cross-checking, submissions)
+- **Micha de Tombe**: historical research lead documentation lead (research, writing, documentation)
+- **Martina Panzani**: data and technical lead, coordinator (coding, organization)
+- **Mai Ngo**: documentation and repository manager (organization, writing, editing)
+
 
 ## Use of Generative AI
 
-## Sources
 
 
 
