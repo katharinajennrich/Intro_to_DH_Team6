@@ -32,7 +32,7 @@ How did public transportation connectivity in Kreuzberg compare to Wilmersdorf d
 
 ## Thesis Statement
 
-
+The connectivity of Kreuzberg and Wilmersdorf throughout the division of Berlin is largely comparable. However, a general trend in improved connectivity after 1951 can be observed in both districts.
 
 ## Dataset 
 
@@ -68,8 +68,6 @@ We kept lines with zero frequency as a separate grey category, because they only
 
 ## Main Findings
 
-The connectivity of Kreuzberg and Wilmersdorf throughout the division of Berlin is largely comparable. However, a general trend in improved connectivity after 1951 can be observed in both districts.
-
 - **Heatmap**: no overwhelming differences visible in how far or how well reachable surrounding districts are, only a slight increase in districts with medium connectivity in later years
 - **Histogram**: both districts show similar changes in service frequency, with more lines departing every 5-10 minutes and fewer at intervals over 20 minutes in later years
 - **Coverage**: around 90% of both Kreuzberg and Wilmersdorf are within 500 meters of any public transit station, with no consistent advantage for either district 
@@ -85,6 +83,20 @@ The connectivity of Kreuzberg and Wilmersdorf throughout the division of Berlin 
 
 
 ## Use of Generative AI
+Our project used ChatGPT primarily as a brainstorming tool to clarify task division, define individual work objectives, and create a poll for teammates to select their preferred tasks after group discussions. All substantive work, including content writing, coding, visualizations, and PowerPoint creation, was completed manually. ChatGPT was also used to identify grammatical errors and improve word choices, with all suggested changes reviewed and corrected manually
+
+
+## References
+Geschichte Wilmersdorfs im Überblick. (2023, August 11). https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/geschichte/artikel.181127.php
+
+Haeussermann, H., & Kapphan, A. (2004). BERLIN: FROM DIVIDED INTO FRAGMENTED CITY. Επιθεώρηση Κοινωνικών Ερευνών, 113, 25. https://doi.org/10.12681/grsr.9216
+
+Hochmuth, H. (2017). The return of Berlin-Kreuzberg. Brought back from the margins by memory. Journal of Contemporary European Studies, 25(4), 470–480. https://doi.org/10.1080/14782804.2017.1361817
+
+Mishra, S., Welch, T. F., & Jha, M. K. (2012). Performance indicators for public transit connectivity in multi-modal transportation networks. Transportation Research Part A: Policy and Practice, 46(7), 1066–1085. https://doi.org/10.1016/j.tra.2012.04.006
+
+Scheiner, J. (2005). Daily Mobility in Berlin: On ‘Inner Unity’ and the Explanation of Travel Behaviour. European Journal of Transport and Infrastructure Research, 5(3). https://doi.org/10.18757/ejtir.2005.5.3.4399
+
 
 
 
