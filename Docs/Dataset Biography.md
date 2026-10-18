@@ -1,6 +1,5 @@
 # Dataset Biography
 ## Background
-Background
 The dataset was created by Noah J. Kim-Baumann, research assistant and digital historian and chair at the Humboldt Üniversität zu Berlin. The dataset was created between 2024-03-01 and 2025-10- 26 (including expansion) and was published on October 26, 2025 and named ‘Berliner Nahverkehrsnetz 1946-1989: Transkribierte Fahrplandaten aus dem geteilten Berlin’  (Berliner local transportation network 1946-1989: transcribed travel schedule data from divided Berlin) and a discussion paper was later published in Feb 26 2026 by Baumann in journal of open Humanities Data vol12 article36, ‘Modelling Temporal Public Transport Systems in Wikidata: A Workflow for Integrating Historical Infrastructure Data’. 
 
 The Data-set’s publication on Zenodo was supported by NFDI4Memory FAIR Data Fellowship, the Deutsches Museum and funded by NFDI4Memory and the publication charge of the paper was done through an Open Access publication fund by the Humboldt Üniversität.
