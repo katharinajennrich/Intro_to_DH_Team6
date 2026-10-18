@@ -12,6 +12,7 @@ After the end of the second World War, Berlin went through a political division 
 - [Main Findings](#main-findings)
 - [Team Members](#team-members)
 - [Use of Generative AI](#use-of-generative-ai)
+- [References](#references)
 
 
 ## Repository Structure
