@@ -54,3 +54,11 @@ The most apparent indicators we can use from the dataset include the number of U
 - A chart or graph showing the comparisons of Kreuzberg and Wilmersdorf, where we expected to show Kreuzberg experiencing a greater decline than Wilmersdorf in transportation connectivity especially in the number of available lines and the phenomenon  is expected to exist during several sample years.
 - Visualizations and Interpretations linked to the secondary literature
 - Notes about uncertainties and limitations, various documentation
+
+## Concerns, Observations, and Challenges
+- Concern: must ensure thesis does not claim causation for elements known only via additional literature
+- Challenge: research question version A rejected for lacking data and for incongruous RQ + Thesi, filtering our data by location - too large to do manually, may be challenging to automate
+- Decision: do we combine all of the greater area of Wilmersdorf, or do we take just the smaller district of Wilmersdorf
+
+
+
