@@ -21,7 +21,7 @@ The data related to the station, located with geolocation, in line with wiki-dat
 - README_Fahrplanbuch_Daten.txt (10.0kB):
 A small description and abstract on the data-set and source.
 
-## Data processing
+## Data Processing
 The data-set was founded on a doctoral research investigation into Berlin’s political division in relation to its transportation connectivity between 1946-1989. Basing himself on analog records of Berlin’s public transport system, through the BVG archive. Using fahrplanbücher, timetables and route maps Baumann collected the data, proceeding to the processing Baumann made selections and isolated elements from the data. Systematized the annotation to make the data machine-readable and allows for later reconciliation.
 After this Bauman made use of Linked Open Data (LOD) leveraging a community driven data model, that of Wikidata. LOD can allow for a larger linking with pre-existing geographic, biographical and institutional authorities. Baumann decided on Wikidata as a platform, because it had a near complete coverage on the S-Bahn and U-bahn networks, including geographical data on the stations. Through the integration of these historical research projects. Additionally, Wikidata uses reification so that you can assert a property into an instance and thus you would be able to refer to it, enabling temporal scoping. 
 Baumann made sure to keep all the decisions documented in the README, As to ensure that the modelling is not treated as the creation of a technical entry, but as an interpretive act. During transcription, Baumann reconciled both the Wikidata and the  loading station names into OpenRefine. The reconciliation results were then stored within the wikidata_id_column. Creating a percentile for every mode of transport and their coverage, revealing the quantitative data coverage gaps. This in turn allowed for a mapping on data coverage, depicting where data had to be created or enhanced. This was done through close reading manual entity inspection of the wiki-data entries, their classification patterns, property usage, temporal modelling approaches, reference practices and administrative geography. (3.2.1). This resulted in a depiction of the inconsistencies found in the multi-level taxonomies on Wikidata entries. 
@@ -37,7 +37,7 @@ Geographic precision is limited, While U-Bahn and S-Bahn coordinates derived fro
 Time Coverage is 1 in every 5 years, but does not cover every year.
 
 
-## Categories inherited from the source.
+## Categories Inherited From the Source
 According to the investigation done by Baumann into Wikidata’s design, there are certain tensions in the use of the platform. While there is frequency data captured in the Fahrplanbücher, this is not adequately modelled on Wikidata. Event intervals with point in time offer a partial solution to this problem according to Baumann. Additionally, operational discontinuation is close to impossible to represent adequately as stated by Baumann. Stations that open, close and re-open will need multiple property-qualifier combinations. Lastly any historical entity forming a cyclical state faces these problems. How this complexity of the temporal is handled can only be done through community guidance on Wikidata as a platform. Any research working with multiple entries will face these tensions, and any systematized categories using Wikidata as a source.
 
 
