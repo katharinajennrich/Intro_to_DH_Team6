@@ -1,0 +1,250 @@
+,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+0,19461,1946,1,autobus,,both/unkown,25,,Flughafen,Alt-Friedrichsfelde
+1,19462,1946,1,straßenbahn,15.0,both/unkown,10,,Hackescher Markt,Anhalter Bahnhof
+2,19464,1946,21,straßenbahn,15.0,both/unkown,6,,Wiebestrasse,Anhalter Bhf.
+3,194612,1946,3,straßenbahn,,both/unkown,10,,Gotzkowskystrasse,Gardepionierplatz
+4,194644,1946,87,straßenbahn,30.0,both/unkown,10,,Dönhoffplatz,Rahnsdorf
+5,194648,1946,99,straßenbahn,10.0,both/unkown,5,,Baerwaldstrasse Ecke Gneisenaustrasse,Bhf. Lichtenrade
+6,194656,1946,KBS 103,s-bahn,,both/unkown,30,,Potsdamer Platz,Lichterfelde Süd
+7,194658,1946,KBS 104a,s-bahn,,both/unkown,30,,Friedrichstr.,Dreilinden
+8,194660,1946,KBS 105a,s-bahn,40.0,both/unkown,40,,Potsdamer Platz,Rangsdorf
+9,194662,1946,A,u-bahn,10.0,both/unkown,7,,"Pankow, Vinetastrasse",Wittenbergplatz
+10,194665,1946,B,u-bahn,12.0,both/unkown,12,,Hallesches Tor,Warschauer Brücke
+11,194668,1946,C,u-bahn,7.0,both/unkown,6,,Seestrasse,Grenzallee
+12,194669,1946,D,u-bahn,7.0,both/unkown,6,,Gesundbrunnen,Leinestrasse
+13,19511,1951,1,straßenbahn,,both/unkown,12,,Hallesches Tor (Stresemannstrasse),Charlottenstrasse Ecke Unter den Linden
+14,19513,1951,3,straßenbahn,,both/unkown,15,,Osloerstrasse Ecke Grüntalerstrasse,Hermannplatz
+15,19514,1951,3,straßenbahn,,both/unkown,20,,Osloerstrasse Ecke Grüntalerstrasse,"Treptow, Elsenstrasse"
+16,19515,1951,4,straßenbahn,,both/unkown,12,,Strelitzerstrasse Ecke Bernauerstrasse,Schlesisches Tor
+17,195110,1951,21,straßenbahn,,both/unkown,115,,"Moabit, Wiebestrasse",Friesenstrasse Ecke Schwiebusserstrasse
+18,195114,1951,26,straßenbahn,,both/unkown,15,,"Görlitzer Bhf., Spreewaldplatz",Wilhelm-Borgmann Brücke
+19,195142,1951,76,straßenbahn,,both/unkown,20,,Hundekehle über Königsallee,Anhalter Bhf.
+20,195150,1951,87,straßenbahn,,both/unkown,25,,"Dönhoffplatz, Krausenstrasse",Rahnsdorf (Mühle)
+21,195151,1951,88,straßenbahn,,both/unkown,15,,"Steglitz, Stadtpark",Wiener Brücke
+22,195153,1951,92,straßenbahn,,both/unkown,20,,"Dönhoffplatz, Krausenstrasse","Bhf. Oberspree, Sedanstrasse"
+23,195154,1951,95,straßenbahn,,both/unkown,15,,Attilaplatz,"Köpenick, Krankenhaus"
+24,195157,1951,99,straßenbahn,,both/unkown,15,,Mehringplatz/Hallesches Tor,Bhf. Lichtenrade
+25,195159,1951,A I,u-bahn,,both/unkown,10,,Pankow (Vinetastr.),Ruhleben
+26,195185,1951,A4,autobus,,both/unkown,7,,Rathaus Schöneberg,Rathaus Neukölln
+27,195197,1951,B I,u-bahn,,both/unkown,12,,Innsbrucker Platz,Kottbusser Tor
+28,195198,1951,B II,u-bahn,,both/unkown,12,,Warschauer Brücke,Uhlandstrasse
+29,195199,1951,C I,u-bahn,,both/unkown,10,,Seestraße,Grenzallee
+30,1951100,1951,C II,u-bahn,,both/unkown,10,,Mehringdamm,Tempelhof (Südring)
+31,1951101,1951,D,u-bahn,,both/unkown,10,,Gesundbrunnen,Leinestr.
+32,1951110,1951,KBS 104,s-bahn,,both/unkown,0,,Oranienburg,Wannsee
+33,1951112,1951,KBS 105,s-bahn,,both/unkown,0,,Velten (Mark),Anhalter Bahnhof
+34,1951113,1951,KBS 105b,s-bahn,,both/unkown,0,,Nordbahnhof,Rangsdorf
+35,1951114,1951,KBS 106,s-bahn,,both/unkown,0,,Bernau (b Bln),Teltow
+36,19562,1956,2,straßenbahn,70.0,West,15,,"Wienerstrasse, Spreewaldplatz",Bernauerstrasse Ecke Wollinerstrasse
+37,19564,1956,3,straßenbahn,81.0,West,10,,"Neukölln, Hermannplatz",Grüntalerstrasse Ecke Osloer Strasse
+38,195614,1956,26,straßenbahn,31.0,West,15,,Spreewaldplatz,"Tempelhof, Industriestrasse"
+39,195648,1956,87,straßenbahn,73.0,Ost,20,21.58,Rahnsdorf,Wiener Brücke
+40,195649,1956,88,straßenbahn,45.0,West,15,,Stadtpark,Wiener Brücke
+41,195652,1956,94,straßenbahn,20.0,West,15,,"Oranienplatz, Dresdenerstrasse","Neukölln, Schulenburgpark"
+42,195653,1956,95,straßenbahn,42.0,West,15,,Attilaplatz,Sonnenallee Ecke Schwarzer Weg
+43,195657,1956,98,straßenbahn,35.0,West,15,,Mehringplatz (Hallesches Tor),Daimlerstrasse Ecke Birnhornweg
+44,195658,1956,99,straßenbahn,49.0,West,15,,"Lindenstrasse, Jerusalemer Kirche",Bhf. Lichtenrade
+45,195659,1956,A I,u-bahn,50.0,West,10,,Pankow (Vinetastr.),Ruhleben
+46,195660,1956,A II,u-bahn,38.0,West,10,,Kottbusser Tor,Krumme Lanke
+47,195673,1956,A19,autobus,38.0,West,10,,"Roseneck, Grunewald","Tempelhof, Flughafen"
+48,195679,1956,A24,autobus,37.0,West,7,,"Moabit, Wiebestrasse Strassenbahnhof","Tempelhof, Flughafen"
+49,195682,1956,A28,autobus,27.0,West,7,,Loewenhardtdamm Ecke Boelckestrasse,Schlesischestrasse Ecke Heckmannufer
+50,195683,1956,A29,autobus,30.0,West,10,,Roseneck,Anhalter Bhf.
+51,195695,1956,A4,autobus,54.0,West,12,,Brixplatz,Finowstrasse Ecke Sonnenallee
+52,1956118,1956,B I,u-bahn,23.0,Ost/West,10,,Warschauer Brücke,Uhlandstrasse
+53,1956120,1956,C I,u-bahn,34.0,West,5,,Kurt-Schumacher-Platz,Grenzallee
+54,1956121,1956,C II,u-bahn,5.0,West,5,,Mehringdamm,Tempelhof (Südring)
+55,1956122,1956,D,u-bahn,23.0,West,5,,Gesundbrunnen,Leinestr.
+56,1956134,1956,KBS 104,s-bahn,,both/unkown,0,,Oranienburg,Wannsee
+57,1956137,1956,KBS 105,s-bahn,,both/unkown,0,,Velten (Mark),Rangsdorf
+58,1956138,1956,KBS 106,s-bahn,,both/unkown,0,,Bernau (b Bln),Teltow
+59,19605,1960,2,straßenbahn,70.0,West,15,,Wolliner Strasse,Spreewaldplatz
+60,19608,1960,26,straßenbahn,31.0,West,15,,Spreewaldplatz,Industriestrasse
+61,196011,1960,3,straßenbahn,79.0,West,10,,Hobrechtstrasse,Grüntaler Strasse
+62,196044,1960,87,straßenbahn,73.0,Ost,20,21.6,Rahnsdorf,Wiener Brücke
+63,196045,1960,88,straßenbahn,45.0,West,15,,Stadtpark,Wiener Brücke
+64,196047,1960,95,straßenbahn,42.0,West,15,,Attilaplatz,Schwarzer Weg
+65,196051,1960,98,straßenbahn,35.0,West,15,,Mehringplatz (Hallesches Tor),Daimlerstrasse Ecke Birnhornweg
+66,196052,1960,99,straßenbahn,49.0,West,15,,Lindenstrasse,Bhf. Lichtenrade
+67,196064,1960,A19,autobus,40.0,West,10,,Roseneck,Flughafen
+68,196070,1960,A24,autobus,38.0,West,5,,Wiebestrasse,Flughafen
+69,196073,1960,A28,autobus,29.0,West,7,,Loewenhardtdamm,Heckmannufer
+70,196074,1960,A29,autobus,32.0,West,10,,Roseneck,Anhalter Bhf.
+71,196083,1960,A4,autobus,54.0,West,10,,Brixplatz,Finowstrasse
+72,1960107,1960,A65,autobus,49.0,West,15,,Goebelplatz,Flughafen Tempelhof
+73,1960109,1960,A67,autobus,25.0,West,10,,"Jerusalems-Kirche, Lindenstrasse",U-Bhf. Grenzallee
+74,1960132,1960,A I,u-bahn,,Ost/West,0,,Pankow (Vinetastr.),Reichskanzlerplatz
+75,1960133,1960,A II,u-bahn,,Ost/West,0,,Pankow (Vinetastr.),Krumme Lanke
+76,1960135,1960,B I,u-bahn,,Ost/West,0,,Warschauer Brücke,Ruhleben
+77,1960136,1960,B II,u-bahn,,Ost/West,0,,Warschauer Brücke,Krumme Lanke
+78,1960138,1960,C I,u-bahn,,West,0,,Tegel,Grenzallee
+79,1960139,1960,C II,u-bahn,,West,0,,Tegel,Tempelhof (Südring)
+80,1960140,1960,D,u-bahn,,West,0,,Gesundbrunnen,Leinestr.
+81,1960153,1960,KBS 104,s-bahn,,both/unkown,0,,Oranienburg,Wannsee
+82,1960156,1960,KBS 105,s-bahn,,both/unkown,0,,Velten (Mark),Rangsdorf
+83,1960157,1960,KBS 106,s-bahn,,both/unkown,0,,Bernau (b Bln),Teltow
+84,19613,1961,3,straßenbahn,87.0,West,10,,Grüntaler Straße Ecke Osloer Strasse,Elsenstraße Ecke Heidelberger Strasse
+85,196110,1961,26,straßenbahn,30.0,West,15,,Spreewaldplatz,Industriestrasse
+86,196111,1961,27,straßenbahn,30.0,West,15,,Spreewaldplatz,Alt-Buckow Ecke Buckower Damm
+87,196138,1961,87,straßenbahn,69.0,Ost,20,,Rahnsdorf,Wiener Brücke
+88,196139,1961,92,straßenbahn,30.0,Ost,20,,"Oberspree, Bruno-Bürgel-Weg",Wiener Brücke
+89,196142,1961,95,straßenbahn,26.0,West,15,,Mehringplatz,Schwarzer Weg Ecke Sonnenallee
+90,196143,1961,96,straßenbahn,45.0,West,15,,Lindenstrasse,Schwelmer Strasse Ecke Ostpreußendamm
+91,196156,1961,A19,autobus,40.0,West,10,,Roseneck,Flughafen
+92,196161,1961,A24,autobus,43.0,West,5,,Wiebestrasse,Flughafen
+93,196165,1961,A28,autobus,29.0,West,7,,Loewenhardtdamm,Heckmannufer
+94,196166,1961,A29,autobus,32.0,West,10,,Roseneck,Askanischer Platz
+95,196170,1961,A34,autobus,45.0,West,30,,"Spandau, Friedhof",Gutshof
+96,196174,1961,A4,autobus,56.0,West,10,,Brixplatz,Harzer Strasse
+97,1961100,1961,A67,autobus,25.0,West,10,,"Jerusalems-Kirche, Lindenstrasse",U-Bhf. Grenzallee
+98,1961109,1961,A75,autobus,42.0,West,10,,Munsterdamm Ecke Steglitzer Damm,Wiener Brücke
+99,1961110,1961,A76,autobus,36.0,West,10,,Blohmstrasse Ecke Wünsdorfer Strasse,Platz der Luftbrücke
+100,1961111,1961,A77,autobus,25.0,West,10,,Daimlerstrasse,Platz der Luftbrücke
+101,1961119,1961,AS1,autobus,28.0,West,15,,Bhf. Zoo,Hohenzollernring
+102,1961123,1961,A I,u-bahn,18.0,West,10,,Gleisdreieck,Reichskanzlerplatz
+103,1961124,1961,A II,u-bahn,36.0,West,10,,Kottbusser Tor,Krumme Lanke
+104,1961126,1961,B I,u-bahn,35.0,West,10,,Schlesisches Tor,Ruhleben
+105,1961127,1961,B II,u-bahn,40.0,West,10,,Schlesisches Tor,Krumme Lanke
+106,1961129,1961,C I,u-bahn,40.0,West,5,,Tegel,Grenzallee
+107,1961130,1961,C II,u-bahn,5.0,West,5,,Mehringdamm,Tempelhof (Südring)
+108,1961131,1961,D,u-bahn,19.0,West,10,,Gesundbrunnen,Leinestr.
+109,1961148,1961,KBS 104,s-bahn,,West,0,,Gesundbrunnen,Wannsee
+110,1961151,1961,KBS 105,s-bahn,,West,0,,Heiligensee,Lichtenrade
+111,1961153,1961,KBS 106,s-bahn,,West,0,,Frohnau,Lichterfelde Süd
+112,196431,1964,87,straßenbahn,67.0,Ost,20,,Rahnsdorf,Wiener Brücke
+113,196433,1964,95,straßenbahn,47.0,Ost,20,,Krankenhaus Köpenick,Wiener Brücke
+114,196434,1964,95,straßenbahn,25.0,West,15,,Mehringplatz,Schwarzer Weg Ecke Sonnenallee
+115,196435,1964,96,straßenbahn,49.0,West,15,,Lindenstrasse,Goerzallee
+116,196449,1964,A19,autobus,39.0,West,10,,Roseneck,Flughafen
+117,196454,1964,A24,autobus,39.0,West,15,,Wiebestrasse,Flughafen
+118,196458,1964,A28,autobus,30.0,West,7,,Loewenhardtdamm,Heckmannufer
+119,196459,1964,A29,autobus,40.0,West,10,,Roseneck,Oranienplatz
+120,196468,1964,A4,autobus,56.0,West,10,,Brixplatz,Harzer Strasse
+121,196498,1964,A67,autobus,36.0,West,5,,"Jerusalems-Kirche, Lindenstrasse",Otto-Wels-Ring
+122,1964108,1964,A75,autobus,47.0,West,10,,Munsterdamm Ecke Steglitzer Damm,Hermannplatz
+123,1964109,1964,A76,autobus,36.0,West,10,,Blohmstrasse Ecke Wünsdorfer Strasse,Platz der Luftbrücke
+124,1964110,1964,A77,autobus,25.0,West,10,,Daimlerstrasse,Platz der Luftbrücke
+125,1964111,1964,A78,autobus,26.0,West,10,,Tropfsteinweg Ecke Quarz-Weg,Platz der Luftbrücke
+126,1964123,1964,A89,autobus,39.0,West,10,,Grüntaler Straße Ecke Osloer Strasse,Mehringplatz
+127,1964138,1964,A I,u-bahn,36.0,West,10,,Schlesisches Tor,Ruhleben
+128,1964139,1964,A II,u-bahn,40.0,West,10,,Schlesisches Tor,Krumme Lanke
+129,1964143,1964,C I,u-bahn,45.0,West,5,,Tegel,Britz-Süd
+130,1964144,1964,C II,u-bahn,5.0,West,5,,Mehringdamm,Tempelhof (Südring)
+131,1964145,1964,D,u-bahn,19.0,West,10,,Gesundbrunnen,Leinestr.
+132,1964149,1964,KBS 100c,s-bahn,,West,0,,Heiligensee,Lichtenrade
+133,1964151,1964,KBS 100d,s-bahn,,West,0,,Gesundbrunnen,Lichterfelde Süd
+134,1964152,1964,KBS 100e,s-bahn,,West,0,,Frohnau,Wannsee
+135,196721,1967,87,straßenbahn,70.0,Ost,20,,Rahnsdorf,Wiener Brücke
+136,196723,1967,95,straßenbahn,48.0,Ost,20,,Krankenhaus Köpenick,Wiener Brücke
+137,196739,1967,A19,autobus,39.0,West,10,,Roseneck,Flughafen
+138,196745,1967,A24,autobus,39.0,West,15,,Wiebestrasse,Flughafen
+139,196749,1967,A28,autobus,35.0,West,15,,U-Bhf. Tempelhof,Heckmannufer
+140,196750,1967,A29,autobus,40.0,West,10,,Roseneck,Oranienplatz
+141,196761,1967,A4,autobus,55.0,West,10,,Brixplatz,Teuptitzerstrasse Ecke Kiehl-Ufer
+142,196797,1967,A67,autobus,38.0,West,10,,Mehringplatz,Wutzkyallee Ecke Strasse 484
+143,1967107,1967,A75,autobus,47.0,West,10,,Munsterdamm Ecke Steglitzer Damm,Hermannplatz
+144,1967123,1967,A89,autobus,62.0,West,10,,"Bornholmerstrasse, Sektorengrenze",Mehringplatz
+145,1967129,1967,A95,autobus,23.0,West,15,,Mehringplatz,Schwarzer Weg Ecke Sonnenallee
+146,1967130,1967,A96,autobus,29.0,West,10,,"Flughafen, Dudenstrasse",Lindenstrasse Ecke Ostpreußendamm
+147,1967138,1967,1,u-bahn,36.0,West,5,,Schlesisches Tor,Ruhleben
+148,1967139,1967,2,u-bahn,29.0,West,10,,Gleisdreieck,Krumme Lanke
+149,1967143,1967,6,u-bahn,41.0,West,5,,Tegel,Alt-Mariendorf
+150,1967144,1967,7,u-bahn,17.0,West,3,,Möckernbrücke,Britz-Süd
+151,1967145,1967,8,u-bahn,20.0,West,10,,Gesundbrunnen,Leinestr.
+152,1967150,1967,KBS 100c,s-bahn,,West,0,,Heiligensee,Lichtenrade
+153,1967151,1967,KBS 100d,s-bahn,,West,0,,Gesundbrunnen,Lichterfelde Süd
+154,1967152,1967,KBS 100e,s-bahn,,West,0,,Frohnau,Wannsee
+155,197140,1971,A19,autobus,39.0,West,10,,Roseneck,Flughafen
+156,197146,1971,A24,autobus,41.0,West,15,,Wiebestrasse Ecke Huttenstrasse,Platz der Luftbrücke
+157,197148,1971,A28,autobus,35.0,West,15,,U-Bhf. Tempelhof,Heckmannufer Ecke Schlesischestrasse
+158,197149,1971,A29,autobus,40.0,West,10,,Roseneck,Oranienplatz
+159,197156,1971,A4,autobus,56.0,West,12,,Brixplatz,Teuptitzerstrasse Ecke Kiehl-Ufer
+160,197175,1971,A67,autobus,41.0,West,12,,U-Bhf. Hallesches Tor,Johannisthaler Chaussee Ecke Rudower Strasse
+161,197183,1971,A75,autobus,47.0,West,10,,Munsterdamm Ecke Steglitzer Damm,Hermannplatz
+162,1971103,1971,A95,autobus,23.0,West,15,,Schwarzer Weg Ecke Sonnenallee,U-Bhf. Hallesches Tor
+163,1971104,1971,A96,autobus,34.0,West,10,,Flughafen Tempelhof,Lindenstrasse Ecke Ostpreußendamm
+164,1971135,1971,KBS 152,s-bahn,,West,0,,Heiligensee,Lichtenrade
+165,1971136,1971,KBS 153,s-bahn,,West,0,,Gesundbrunnen,Lichterfelde Süd
+166,1971137,1971,KBS 154,s-bahn,,West,0,,Frohnau,Wannsee
+167,1971165,1971,87,straßenbahn,70.0,Ost,20,,Rahnsdorf,Wiener Brücke
+168,1971166,1971,95,straßenbahn,48.0,Ost,20,,Krankenhaus Köpenick,Wiener Brücke
+169,1971170,1971,1,u-bahn,32.0,West,5,,Schlesisches Tor,Ruhleben
+170,1971171,1971,2,u-bahn,29.0,West,10,,Gleisdreieck,Krumme Lanke
+171,1971174,1971,6,u-bahn,36.0,West,5,,Tegel,Alt-Mariendorf
+172,1971175,1971,7,u-bahn,30.0,West,5,,Fehrbelliner Platz,Zwckauer Damm
+173,1971176,1971,8,u-bahn,20.0,West,10,,Gesundbrunnen,Leinestr.
+174,197615,1976,19,autobus,44.0,West,10,,Roseneck,Platz der Luftbrücke
+175,197625,1976,24,autobus,41.0,West,15,,Moabit Wiebestrasse,Platz der Luftbrücke
+176,197630,1976,28,autobus,,West,15,,U-Bhf. Tempelhof,Schlesische Strasse E. Heckmannufer
+177,197631,1976,29,autobus,,West,10,,"Grunewald, Roseneck",Oranienplatz
+178,197654,1976,4,autobus,,West,12,,"Neu-Westend, Brixplatz","Neukölln, Teupitzer Strasse"
+179,197656,1976,41,autobus,58.0,West,12,,Rudow Stadtgrenze,U-Bhf. Hallesches Tor
+180,197690,1976,64,autobus,17.0,Ost,33,,Krüllsstrasse,Wiener Brücke
+181,1976112,1976,75,autobus,46.0,West,15,,Steglitzer Damm E. Munsterdamm,Hermannplatz
+182,1976144,1976,95,autobus,25.0,West,12,,Sonnenallee Ecke Schwarzer Weg,U-Bhf. Hallesches Tor
+183,1976145,1976,96,autobus,34.0,West,12,,Platz der Luftbrücke,Lichterfelde Lindenstraße
+184,1976159,1976,1,u-bahn,32.0,West,5,,Schlesisches Tor,Ruhleben
+185,1976163,1976,6,u-bahn,36.0,West,5,,Tegel,Alt-Mariendorf
+186,1976164,1976,7,u-bahn,30.0,West,5,,Fehrbelliner Platz,Rudow
+187,1976165,1976,8,u-bahn,20.0,West,10,,Gesundbrunnen,Leinestr.
+188,1976167,1976,KBS 152,s-bahn,,West,0,,Heiligensee,Lichtenrade
+189,1976168,1976,KBS 153,s-bahn,,West,0,,Heiligensee,Lichterfelde Süd
+190,1976171,1976,KBS 154,s-bahn,,West,0,,Frohnau,Wannsee
+191,198019,1980,19,autobus,44.0,West,10,,Grunewald Roseneck,Platz der Luftbrücke
+192,198031,1980,24,autobus,41.0,West,15,,Moabit Wiebestrasse,Platz der Luftbrücke
+193,198037,1980,28,autobus,44.0,West,15,,U-Bhf. Tempelhof,Schlesischestrasse Ecke Heckmannufer
+194,198039,1980,29,autobus,45.0,West,10,,"Grunewald, Roseneck",Oranienplatz
+195,198061,1980,4,autobus,65.0,West,12,,"Neu-Westend, Brixplatz","Neukölln, Teupitzerstrasse"
+196,198065,1980,41,autobus,58.0,West,12,,Rudow Stadtgrenze,U-Bhf. Hallesches Tor
+197,1980114,1980,75,autobus,51.0,West,10,,Steglitzer Damm Ecke Munsterdamm,Hermannplatzstrasse
+198,1980115,1980,75,autobus,50.0,West,10,,Steglitzer Damm Ecke Munsterdamm,Hermannplatz
+199,1980143,1980,95,autobus,25.0,West,12,,Sonnenallee Ecke Peter-Anders-Strasse,U-Bhf. Hallesches Tor
+200,1980145,1980,96,autobus,34.0,West,12,,Platz der Luftbrücke,Lichterfelde Lindenstrasse
+201,1980162,1980,1,u-bahn,33.0,West,2,,Schlesisches Tor,Ruhleben
+202,1980166,1980,6,u-bahn,13.0,West,3,,Tegel,Alt-Mariendorf
+203,1980167,1980,7,u-bahn,13.0,West,3,,Rohrdamm,Rudow
+204,1980168,1980,8,u-bahn,23.0,West,6,,Osloerstrasse,Leinestrasse
+205,1980170,1980,KBS 152,s-bahn,,West,0,,Frohnau,Lichtenrade
+206,1980171,1980,KBS 153,s-bahn,,West,0,,Heiligensee,Lichterfelde Süd
+207,198218,1982,19,autobus,44.0,West,10,,Grunewald Roseneck,Platz der Luftbrücke
+208,198229,1982,24,autobus,43.0,West,15,,Moabit Wiebestrasse,Platz der Luftbrücke
+209,198235,1982,28,autobus,44.0,West,15,,U-Bhf. Tempelhof,Schlesische Strasse Ecke Heckmannufer
+210,198236,1982,29,autobus,45.0,West,10,,"Grunewald, Roseneck",Oranienplatz
+211,198257,1982,4,autobus,64.0,West,10,,"Neu-Westend, Brixplatz","Neukölln, Teupitzer Strasse"
+212,198261,1982,41,autobus,58.0,West,12,,Rudow Stadtgrenze,U-Bhf. Hallesches Tor
+213,1982150,1982,95,autobus,26.0,West,12,,Sonnenallee Ecke Peter-Anders-Strasse,U-Bhf. Hallesches Tor
+214,1982152,1982,96,autobus,34.0,West,12,,Platz der Luftbrücke,Lichterfelde Lindenstrasse
+215,1982158,1982,1,u-bahn,,West,10,,Schlesisches Tor,Ruhleben
+216,1982162,1982,6,u-bahn,37.0,West,3,,Tegel,Alt-Mariendorf
+217,1982163,1982,7,u-bahn,46.0,West,3,,Rohrdamm,Rudow
+218,1982164,1982,8,u-bahn,23.0,West,6,,Osloer Strasse,Leinestrasse
+219,1982166,1982,152,s-bahn,,West,0,,Frohnau,Lichtenrade
+220,1982167,1982,153,s-bahn,,West,0,,Heiligensee,Lichterfelde Süd
+221,198421,1984,19,autobus,44.0,West,10,,Grunewald Roseneck,Platz der Luftbrücke
+222,198433,1984,24,autobus,43.0,West,15,,Moabit Wiebestrasse,Platz der Luftbrücke
+223,198439,1984,28,autobus,44.0,West,15,,U-Bhf. Tempelhof,Schlesische Strasse Ecke Heckmannufer
+224,198462,1984,4,autobus,64.0,West,10,,"Neu-Westend, Brixplatz","Neukölln, Teupitzer Strasse"
+225,198466,1984,41,autobus,58.0,West,12,,Rudow Stadtgrenze,U-Bhf. Hallesches Tor
+226,1984123,1984,75,autobus,54.0,West,10,,Steglitzer Damm Ecke Munsterdamm,Hermannplatz
+227,1984162,1984,96,autobus,33.0,West,12,,Platz der Luftbrücke,Lichterfelde Lindenstrasse
+228,1984163,1984,96E,autobus,43.0,West,12,,Platz der Luftbrücke,Beeskowdamm
+229,1984173,1984,1,u-bahn,31.0,West,6,,Schlesisches Tor,Ruhleben
+230,1984177,1984,6,u-bahn,37.0,West,3,,Tegel,Alt-Mariendorf
+231,1984178,1984,7,u-bahn,46.0,West,3,,Rohrdamm,Rudow
+232,1984179,1984,8,u-bahn,23.0,West,6,,Osloer Strasse,Leinestrasse
+233,1984181,1984,2,s-bahn,34.0,West,20,,Lichtenrade,Gesundbrunnen
+234,198921,1989,19,autobus,39.0,West,5,,Taubertstrasse,Platz der Luftbrücke
+235,198932,1989,24,autobus,34.0,West,20,,U-Bhf. Turmstrasse,Platz der Luftbrücke
+236,198939,1989,28,autobus,44.0,West,15,,U-Bhf. Tempelhof,Schlesische Strasse Ecke Heckmannufer
+237,198941,1989,29,autobus,58.0,West,10,,"Grunewald, Roseneck",U-Bhf. Hermannplatz
+238,198953,1989,4,autobus,64.0,West,10,,Brixplatz,"Neukölln, Teupitzer Strasse"
+239,198955,1989,41,autobus,61.0,West,15,,Waltersdorfer Chaussee,U-Bhf. Hallesches Tor
+240,1989105,1989,84,autobus,42.0,West,0,,U-Bhf. Platz der Luftbrücke,"Zehlendorf, Beeskowdamm"
+241,1989122,1989,95,autobus,29.0,West,15,,Sonnenallee Ecke Peter-Anders-Strasse,U-Bhf. Hallesches Tor
+242,1989123,1989,96,autobus,38.0,West,10,,U-Bhf. Platz der Luftbrücke,"Lichterfelde-Süd, Holtheimer Weg"
+243,1989129,1989,1,u-bahn,31.0,west,3,,Schlesisches Tor,Ruhleben
+244,1989133,1989,6,u-bahn,37.0,west,3,,Tegel,Alt-Mariendorf
+245,1989134,1989,7,u-bahn,56.0,west,12,,Rathaus Spandau,Rudow
+246,1989135,1989,8,u-bahn,27.0,west,5,,Paracelsus-Bad,Leinestrasse
+247,1989137,1989,1,s-bahn,30.0,west,10,,Anhalter Bahnhof,Wannsee
+248,1989138,1989,2,s-bahn,53.0,west,10,,Frohnau,Lichtenrade

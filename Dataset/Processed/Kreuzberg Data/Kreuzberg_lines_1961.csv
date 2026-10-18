@@ -1,0 +1,29 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+84,84,19613,1961,3,straßenbahn,87.0,West,10,,Grüntaler Straße Ecke Osloer Strasse,Elsenstraße Ecke Heidelberger Strasse
+85,85,196110,1961,26,straßenbahn,30.0,West,15,,Spreewaldplatz,Industriestrasse
+86,86,196111,1961,27,straßenbahn,30.0,West,15,,Spreewaldplatz,Alt-Buckow Ecke Buckower Damm
+87,87,196138,1961,87,straßenbahn,69.0,Ost,20,,Rahnsdorf,Wiener Brücke
+88,88,196139,1961,92,straßenbahn,30.0,Ost,20,,"Oberspree, Bruno-Bürgel-Weg",Wiener Brücke
+89,89,196142,1961,95,straßenbahn,26.0,West,15,,Mehringplatz,Schwarzer Weg Ecke Sonnenallee
+90,90,196143,1961,96,straßenbahn,45.0,West,15,,Lindenstrasse,Schwelmer Strasse Ecke Ostpreußendamm
+91,91,196156,1961,A19,autobus,40.0,West,10,,Roseneck,Flughafen
+92,92,196161,1961,A24,autobus,43.0,West,5,,Wiebestrasse,Flughafen
+93,93,196165,1961,A28,autobus,29.0,West,7,,Loewenhardtdamm,Heckmannufer
+94,94,196166,1961,A29,autobus,32.0,West,10,,Roseneck,Askanischer Platz
+95,95,196170,1961,A34,autobus,45.0,West,30,,"Spandau, Friedhof",Gutshof
+96,96,196174,1961,A4,autobus,56.0,West,10,,Brixplatz,Harzer Strasse
+97,97,1961100,1961,A67,autobus,25.0,West,10,,"Jerusalems-Kirche, Lindenstrasse",U-Bhf. Grenzallee
+98,98,1961109,1961,A75,autobus,42.0,West,10,,Munsterdamm Ecke Steglitzer Damm,Wiener Brücke
+99,99,1961110,1961,A76,autobus,36.0,West,10,,Blohmstrasse Ecke Wünsdorfer Strasse,Platz der Luftbrücke
+100,100,1961111,1961,A77,autobus,25.0,West,10,,Daimlerstrasse,Platz der Luftbrücke
+101,101,1961119,1961,AS1,autobus,28.0,West,15,,Bhf. Zoo,Hohenzollernring
+102,102,1961123,1961,A I,u-bahn,18.0,West,10,,Gleisdreieck,Reichskanzlerplatz
+103,103,1961124,1961,A II,u-bahn,36.0,West,10,,Kottbusser Tor,Krumme Lanke
+104,104,1961126,1961,B I,u-bahn,35.0,West,10,,Schlesisches Tor,Ruhleben
+105,105,1961127,1961,B II,u-bahn,40.0,West,10,,Schlesisches Tor,Krumme Lanke
+106,106,1961129,1961,C I,u-bahn,40.0,West,5,,Tegel,Grenzallee
+107,107,1961130,1961,C II,u-bahn,5.0,West,5,,Mehringdamm,Tempelhof (Südring)
+108,108,1961131,1961,D,u-bahn,19.0,West,10,,Gesundbrunnen,Leinestr.
+109,109,1961148,1961,KBS 104,s-bahn,,West,0,,Gesundbrunnen,Wannsee
+110,110,1961151,1961,KBS 105,s-bahn,,West,0,,Heiligensee,Lichtenrade
+111,111,1961153,1961,KBS 106,s-bahn,,West,0,,Frohnau,Lichterfelde Süd

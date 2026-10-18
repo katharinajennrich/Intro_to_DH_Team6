@@ -1,0 +1,24 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+112,112,196431,1964,87,straßenbahn,67.0,Ost,20,,Rahnsdorf,Wiener Brücke
+113,113,196433,1964,95,straßenbahn,47.0,Ost,20,,Krankenhaus Köpenick,Wiener Brücke
+114,114,196434,1964,95,straßenbahn,25.0,West,15,,Mehringplatz,Schwarzer Weg Ecke Sonnenallee
+115,115,196435,1964,96,straßenbahn,49.0,West,15,,Lindenstrasse,Goerzallee
+116,116,196449,1964,A19,autobus,39.0,West,10,,Roseneck,Flughafen
+117,117,196454,1964,A24,autobus,39.0,West,15,,Wiebestrasse,Flughafen
+118,118,196458,1964,A28,autobus,30.0,West,7,,Loewenhardtdamm,Heckmannufer
+119,119,196459,1964,A29,autobus,40.0,West,10,,Roseneck,Oranienplatz
+120,120,196468,1964,A4,autobus,56.0,West,10,,Brixplatz,Harzer Strasse
+121,121,196498,1964,A67,autobus,36.0,West,5,,"Jerusalems-Kirche, Lindenstrasse",Otto-Wels-Ring
+122,122,1964108,1964,A75,autobus,47.0,West,10,,Munsterdamm Ecke Steglitzer Damm,Hermannplatz
+123,123,1964109,1964,A76,autobus,36.0,West,10,,Blohmstrasse Ecke Wünsdorfer Strasse,Platz der Luftbrücke
+124,124,1964110,1964,A77,autobus,25.0,West,10,,Daimlerstrasse,Platz der Luftbrücke
+125,125,1964111,1964,A78,autobus,26.0,West,10,,Tropfsteinweg Ecke Quarz-Weg,Platz der Luftbrücke
+126,126,1964123,1964,A89,autobus,39.0,West,10,,Grüntaler Straße Ecke Osloer Strasse,Mehringplatz
+127,127,1964138,1964,A I,u-bahn,36.0,West,10,,Schlesisches Tor,Ruhleben
+128,128,1964139,1964,A II,u-bahn,40.0,West,10,,Schlesisches Tor,Krumme Lanke
+129,129,1964143,1964,C I,u-bahn,45.0,West,5,,Tegel,Britz-Süd
+130,130,1964144,1964,C II,u-bahn,5.0,West,5,,Mehringdamm,Tempelhof (Südring)
+131,131,1964145,1964,D,u-bahn,19.0,West,10,,Gesundbrunnen,Leinestr.
+132,132,1964149,1964,KBS 100c,s-bahn,,West,0,,Heiligensee,Lichtenrade
+133,133,1964151,1964,KBS 100d,s-bahn,,West,0,,Gesundbrunnen,Lichterfelde Süd
+134,134,1964152,1964,KBS 100e,s-bahn,,West,0,,Frohnau,Wannsee

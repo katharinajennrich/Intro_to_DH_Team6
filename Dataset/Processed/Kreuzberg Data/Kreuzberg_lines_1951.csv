@@ -1,0 +1,24 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+13,13,19511,1951,1,straßenbahn,,both/unkown,12,,Hallesches Tor (Stresemannstrasse),Charlottenstrasse Ecke Unter den Linden
+14,14,19513,1951,3,straßenbahn,,both/unkown,15,,Osloerstrasse Ecke Grüntalerstrasse,Hermannplatz
+15,15,19514,1951,3,straßenbahn,,both/unkown,20,,Osloerstrasse Ecke Grüntalerstrasse,"Treptow, Elsenstrasse"
+16,16,19515,1951,4,straßenbahn,,both/unkown,12,,Strelitzerstrasse Ecke Bernauerstrasse,Schlesisches Tor
+17,17,195110,1951,21,straßenbahn,,both/unkown,115,,"Moabit, Wiebestrasse",Friesenstrasse Ecke Schwiebusserstrasse
+18,18,195114,1951,26,straßenbahn,,both/unkown,15,,"Görlitzer Bhf., Spreewaldplatz",Wilhelm-Borgmann Brücke
+19,19,195142,1951,76,straßenbahn,,both/unkown,20,,Hundekehle über Königsallee,Anhalter Bhf.
+20,20,195150,1951,87,straßenbahn,,both/unkown,25,,"Dönhoffplatz, Krausenstrasse",Rahnsdorf (Mühle)
+21,21,195151,1951,88,straßenbahn,,both/unkown,15,,"Steglitz, Stadtpark",Wiener Brücke
+22,22,195153,1951,92,straßenbahn,,both/unkown,20,,"Dönhoffplatz, Krausenstrasse","Bhf. Oberspree, Sedanstrasse"
+23,23,195154,1951,95,straßenbahn,,both/unkown,15,,Attilaplatz,"Köpenick, Krankenhaus"
+24,24,195157,1951,99,straßenbahn,,both/unkown,15,,Mehringplatz/Hallesches Tor,Bhf. Lichtenrade
+25,25,195159,1951,A I,u-bahn,,both/unkown,10,,Pankow (Vinetastr.),Ruhleben
+26,26,195185,1951,A4,autobus,,both/unkown,7,,Rathaus Schöneberg,Rathaus Neukölln
+27,27,195197,1951,B I,u-bahn,,both/unkown,12,,Innsbrucker Platz,Kottbusser Tor
+28,28,195198,1951,B II,u-bahn,,both/unkown,12,,Warschauer Brücke,Uhlandstrasse
+29,29,195199,1951,C I,u-bahn,,both/unkown,10,,Seestraße,Grenzallee
+30,30,1951100,1951,C II,u-bahn,,both/unkown,10,,Mehringdamm,Tempelhof (Südring)
+31,31,1951101,1951,D,u-bahn,,both/unkown,10,,Gesundbrunnen,Leinestr.
+32,32,1951110,1951,KBS 104,s-bahn,,both/unkown,0,,Oranienburg,Wannsee
+33,33,1951112,1951,KBS 105,s-bahn,,both/unkown,0,,Velten (Mark),Anhalter Bahnhof
+34,34,1951113,1951,KBS 105b,s-bahn,,both/unkown,0,,Nordbahnhof,Rangsdorf
+35,35,1951114,1951,KBS 106,s-bahn,,both/unkown,0,,Bernau (b Bln),Teltow

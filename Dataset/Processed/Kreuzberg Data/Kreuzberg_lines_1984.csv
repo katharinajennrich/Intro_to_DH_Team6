@@ -1,0 +1,14 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+221,221,198421,1984,19,autobus,44.0,West,10,,Grunewald Roseneck,Platz der Luftbrücke
+222,222,198433,1984,24,autobus,43.0,West,15,,Moabit Wiebestrasse,Platz der Luftbrücke
+223,223,198439,1984,28,autobus,44.0,West,15,,U-Bhf. Tempelhof,Schlesische Strasse Ecke Heckmannufer
+224,224,198462,1984,4,autobus,64.0,West,10,,"Neu-Westend, Brixplatz","Neukölln, Teupitzer Strasse"
+225,225,198466,1984,41,autobus,58.0,West,12,,Rudow Stadtgrenze,U-Bhf. Hallesches Tor
+226,226,1984123,1984,75,autobus,54.0,West,10,,Steglitzer Damm Ecke Munsterdamm,Hermannplatz
+227,227,1984162,1984,96,autobus,33.0,West,12,,Platz der Luftbrücke,Lichterfelde Lindenstrasse
+228,228,1984163,1984,96E,autobus,43.0,West,12,,Platz der Luftbrücke,Beeskowdamm
+229,229,1984173,1984,1,u-bahn,31.0,West,6,,Schlesisches Tor,Ruhleben
+230,230,1984177,1984,6,u-bahn,37.0,West,3,,Tegel,Alt-Mariendorf
+231,231,1984178,1984,7,u-bahn,46.0,West,3,,Rohrdamm,Rudow
+232,232,1984179,1984,8,u-bahn,23.0,West,6,,Osloer Strasse,Leinestrasse
+233,233,1984181,1984,2,s-bahn,34.0,West,20,,Lichtenrade,Gesundbrunnen

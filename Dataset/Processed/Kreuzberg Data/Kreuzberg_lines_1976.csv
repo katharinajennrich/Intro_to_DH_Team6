@@ -1,0 +1,18 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+174,174,197615,1976,19,autobus,44.0,West,10,,Roseneck,Platz der Luftbrücke
+175,175,197625,1976,24,autobus,41.0,West,15,,Moabit Wiebestrasse,Platz der Luftbrücke
+176,176,197630,1976,28,autobus,,West,15,,U-Bhf. Tempelhof,Schlesische Strasse E. Heckmannufer
+177,177,197631,1976,29,autobus,,West,10,,"Grunewald, Roseneck",Oranienplatz
+178,178,197654,1976,4,autobus,,West,12,,"Neu-Westend, Brixplatz","Neukölln, Teupitzer Strasse"
+179,179,197656,1976,41,autobus,58.0,West,12,,Rudow Stadtgrenze,U-Bhf. Hallesches Tor
+180,180,197690,1976,64,autobus,17.0,Ost,33,,Krüllsstrasse,Wiener Brücke
+181,181,1976112,1976,75,autobus,46.0,West,15,,Steglitzer Damm E. Munsterdamm,Hermannplatz
+182,182,1976144,1976,95,autobus,25.0,West,12,,Sonnenallee Ecke Schwarzer Weg,U-Bhf. Hallesches Tor
+183,183,1976145,1976,96,autobus,34.0,West,12,,Platz der Luftbrücke,Lichterfelde Lindenstraße
+184,184,1976159,1976,1,u-bahn,32.0,West,5,,Schlesisches Tor,Ruhleben
+185,185,1976163,1976,6,u-bahn,36.0,West,5,,Tegel,Alt-Mariendorf
+186,186,1976164,1976,7,u-bahn,30.0,West,5,,Fehrbelliner Platz,Rudow
+187,187,1976165,1976,8,u-bahn,20.0,West,10,,Gesundbrunnen,Leinestr.
+188,188,1976167,1976,KBS 152,s-bahn,,West,0,,Heiligensee,Lichtenrade
+189,189,1976168,1976,KBS 153,s-bahn,,West,0,,Heiligensee,Lichterfelde Süd
+190,190,1976171,1976,KBS 154,s-bahn,,West,0,,Frohnau,Wannsee

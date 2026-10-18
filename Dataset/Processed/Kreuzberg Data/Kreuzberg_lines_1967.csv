@@ -1,0 +1,21 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+135,135,196721,1967,87,straßenbahn,70.0,Ost,20,,Rahnsdorf,Wiener Brücke
+136,136,196723,1967,95,straßenbahn,48.0,Ost,20,,Krankenhaus Köpenick,Wiener Brücke
+137,137,196739,1967,A19,autobus,39.0,West,10,,Roseneck,Flughafen
+138,138,196745,1967,A24,autobus,39.0,West,15,,Wiebestrasse,Flughafen
+139,139,196749,1967,A28,autobus,35.0,West,15,,U-Bhf. Tempelhof,Heckmannufer
+140,140,196750,1967,A29,autobus,40.0,West,10,,Roseneck,Oranienplatz
+141,141,196761,1967,A4,autobus,55.0,West,10,,Brixplatz,Teuptitzerstrasse Ecke Kiehl-Ufer
+142,142,196797,1967,A67,autobus,38.0,West,10,,Mehringplatz,Wutzkyallee Ecke Strasse 484
+143,143,1967107,1967,A75,autobus,47.0,West,10,,Munsterdamm Ecke Steglitzer Damm,Hermannplatz
+144,144,1967123,1967,A89,autobus,62.0,West,10,,"Bornholmerstrasse, Sektorengrenze",Mehringplatz
+145,145,1967129,1967,A95,autobus,23.0,West,15,,Mehringplatz,Schwarzer Weg Ecke Sonnenallee
+146,146,1967130,1967,A96,autobus,29.0,West,10,,"Flughafen, Dudenstrasse",Lindenstrasse Ecke Ostpreußendamm
+147,147,1967138,1967,1,u-bahn,36.0,West,5,,Schlesisches Tor,Ruhleben
+148,148,1967139,1967,2,u-bahn,29.0,West,10,,Gleisdreieck,Krumme Lanke
+149,149,1967143,1967,6,u-bahn,41.0,West,5,,Tegel,Alt-Mariendorf
+150,150,1967144,1967,7,u-bahn,17.0,West,3,,Möckernbrücke,Britz-Süd
+151,151,1967145,1967,8,u-bahn,20.0,West,10,,Gesundbrunnen,Leinestr.
+152,152,1967150,1967,KBS 100c,s-bahn,,West,0,,Heiligensee,Lichtenrade
+153,153,1967151,1967,KBS 100d,s-bahn,,West,0,,Gesundbrunnen,Lichterfelde Süd
+154,154,1967152,1967,KBS 100e,s-bahn,,West,0,,Frohnau,Wannsee
