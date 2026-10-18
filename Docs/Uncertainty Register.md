@@ -1,1 +1,2 @@
-
+## Uncertainty Register
+One significant uncertainty in our project is the possibility of missing station records in the historical public transport dataset. Since the dataset contains transcribed timetable data from selected years between 1946 and 1989, incomplete records may affect the accuracy of our analysis of station coverage and accessibility in Kreuzberg and Wilmersdorf. We acknowledge that the absence of a station in the dataset does not necessarily mean that the station did not exist or was not operating at the time. To manage this uncertainty, we interpret our visualisations and quantitative results as representations of the available data rather than complete reconstructions of the historical transport network.
