@@ -1,0 +1,24 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+56,56,19613,1961,3,straßenbahn,87.0,West,10,,Grüntaler Straße Ecke Osloer Strasse,Elsenstraße Ecke Heidelberger Strasse
+57,57,196118,1961,60,straßenbahn,49.0,West,15,,Königin-Elisabeth-Strasse,Eythstrasse
+58,58,196127,1961,74,straßenbahn,39.0,West,20,,Finckensteinallee,Potsdamer Platz
+59,59,196132,1961,77,straßenbahn,49.0,West,20,,Bhf. Zoo,Goerzallee
+60,60,196133,1961,78,straßenbahn,48.0,West,20,,Bhf. Zoo,Lichterfelde-West Lindenstrasse
+61,61,196144,1961,A1,autobus,58.0,West,15,,Waldstrasse Ecke Turmstrasse,Lichterfelde-West Lindenstrasse
+62,62,196145,1961,A2,autobus,40.0,West,15,,"Ernst-Reuter-Platz, Straße des 17. Juni",Trippsteinstrasse
+63,63,196153,1961,A16,autobus,44.0,West,10,,Louise-Schroeder-Platz,Englerallee
+64,64,196154,1961,A17,autobus,46.0,West,10,,Bhf. Grunewald,Saaleckplatz
+65,65,196158,1961,A21,autobus,49.0,West,15,,Wentowsteig,U-Bhf. Fehrbelliner Platz
+66,66,196162,1961,A25,autobus,63.0,West,10,,Unionplatz,Gutschmidtstrasse
+67,67,196166,1961,A29,autobus,32.0,West,10,,Roseneck,Askanischer Platz
+68,68,196174,1961,A4,autobus,56.0,West,10,,Brixplatz,Harzer Strasse
+69,69,196185,1961,A50,autobus,15.0,West,10,,Roseneck,Prager Platz
+70,70,196193,1961,A60,autobus,25.0,West,10,,"Roseneck, Hundekehl",Wittenbergplatz
+71,71,196198,1961,A65,autobus,56.0,West,10,,Goebelplatz,Bhf. Sonnenallee
+72,72,1961108,1961,A74,autobus,40.0,West,15,,Königin-Elisabeth-Strasse,Eythstrasse
+73,73,1961120,1961,AS2,autobus,40.0,West,20,,Bhf. Zoo,"Lichtenrade, Blohmstrasse Ecke Wünsdorfer Strasse"
+74,74,1961121,1961,AS3,autobus,24.0,West,15,,Bhf. Zoo,Rathaus Zehlendorf
+75,75,1961124,1961,A II,u-bahn,36.0,West,10,,Kottbusser Tor,Krumme Lanke
+76,76,1961127,1961,B II,u-bahn,40.0,West,10,,Schlesisches Tor,Krumme Lanke
+77,77,1961134,1961,KBS 100,s-bahn,,West,0,,Gesundbrunnen,Sonnenallee
+78,78,1961135,1961,KBS 100a,s-bahn,,West,0,,Wilmersdorf,Grünau

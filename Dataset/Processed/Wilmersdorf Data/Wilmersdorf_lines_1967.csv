@@ -1,0 +1,21 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+101,101,196724,1967,A1,autobus,58.0,West,15,,"Moabit, Waldstrasse Ecke Turmstrasse",Lindenstrasse Ecke Müllerstrasse
+102,102,196725,1967,A2,autobus,39.0,West,10,,Hardenbergplatz,Sonderhauserstrasse Ecke Hildburghauserstrasse
+103,103,196734,1967,A16,autobus,5.0,West,12,,Osloer Strasse Ecke Drontheimerstrasse,Englerallee
+104,104,196736,1967,A17,autobus,48.0,West,10,,"Grunewald, Fontanestrasse",Saaleckplatz
+105,105,196741,1967,A21,autobus,52.0,West,15,,"Wilhelmsruherdamm, Sektorengrenze",U-Bhf. Fehrbelliner Platz
+106,106,196746,1967,A25,autobus,59.0,West,10,,Unionplatz,Grüner Weg Ecke Buschkrug Allee
+107,107,196761,1967,A4,autobus,55.0,West,10,,Brixplatz,Teuptitzerstrasse Ecke Kiehl-Ufer
+108,108,196776,1967,A50,autobus,25.0,West,10,,Roseneck,Goebenstrasse Ecke Bülowstrasse
+109,109,196790,1967,A60,autobus,24.0,West,12,,"Roseneck, Hundekehl",Wittenbergplatz
+110,110,196795,1967,A65,autobus,52.0,West,12,,Goebelplatz,Schulenburgpark
+111,111,1967106,1967,A74,autobus,41.0,West,15,,"Königin-Elisabeth-Strasse, Adenauerdamm",Eythstrasse
+112,112,1967115,1967,A81,autobus,45.0,West,10,,"Bhf. Zoo, Hardenbergplatz",Imbrosweg Ecke Dardanellenweg
+113,113,1967119,1967,A85,autobus,44.0,West,10,,"Bhf. Zoo, Hardenbergplatz",Holtheimer Weg
+114,114,1967120,1967,A86,autobus,50.0,West,15,,Invalidenstrasse Ecke Heidestrasse,Birkbuschstrasse Ecke Siemensstrasse
+115,115,1967123,1967,A89,autobus,62.0,West,10,,"Bornholmerstrasse, Sektorengrenze",Mehringplatz
+116,116,1967135,1967,S3,autobus,29.0,West,15,,Hardenbergplatz,Rathaus Zehlendorf
+117,117,1967139,1967,2,u-bahn,29.0,West,10,,Gleisdreieck,Krumme Lanke
+118,118,1967146,1967,9,u-bahn,10.0,West,3,,Leopoldplatz,Spichernstr. (Bundesallee)
+119,119,1967147,1967,KBS 100,s-bahn,,West,0,,Gesundbrunnen,Sonnenallee
+120,120,1967156,1967,KBS 100k,s-bahn,,West,0,,Zoologischer Garten,Köllnische Heide

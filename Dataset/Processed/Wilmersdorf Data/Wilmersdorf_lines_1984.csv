@@ -1,0 +1,14 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+177,177,19841,1984,1,autobus,66.0,West,10,,"Moabit, Waldstrasse Ecke Turmstrasse","Lichterfelde, Lindenstrasse"
+178,178,198415,1984,16,autobus,63.0,West,15,,Reinickendorf Klemkestrasse/Sommerstrasse,Breitenbachplatz
+179,179,198416,1984,17,autobus,57.0,West,12,,S-Bhf. Grunewald,Lichterfelde Celsiusstrasse
+180,180,198426,1984,21,autobus,63.0,West,20,,Quickborner Strasse Märkisches Viertel,Fehrbelliner Platz
+181,181,198462,1984,4,autobus,64.0,West,10,,"Neu-Westend, Brixplatz","Neukölln, Teupitzer Strasse"
+182,182,198478,1984,50,autobus,23.0,West,15,,Grunewald Roseneck,Schöneberg Barbarossaplatz
+183,183,198497,1984,60,autobus,40.0,West,15,,Wittenbergplatz,U-Bhf. Oskar-Helene-Heim
+184,184,1984107,1984,65,autobus,,West,12,,Wedding Seestrasse Ecke Müllerstrasse,Sonnenalle Ecke Peter-Anders-Strasse
+185,185,1984122,1984,74,autobus,44.0,West,15,,Charlottenburg Königin-Elisabeth-Strasse,Lindenhof
+186,186,1984143,1984,86,autobus,41.0,West,12,,Fehrbelliner Platz,"Lichterfelde, Celsiusstrasse"
+187,187,1984174,1984,2,u-bahn,20.0,West,5,,Wittenbergplatz,Krumme Lanke
+188,188,1984178,1984,7,u-bahn,46.0,West,3,,Rohrdamm,Rudow
+189,189,1984180,1984,9,u-bahn,22.0,West,3,,Osloer Strasse,Rathaus Steglitz

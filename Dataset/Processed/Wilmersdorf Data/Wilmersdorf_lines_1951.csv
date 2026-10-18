@@ -1,0 +1,14 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+5,5,19513,1951,3,straßenbahn,,both/unkown,15,,Osloerstrasse Ecke Grüntalerstrasse,Hermannplatz
+6,6,195122,1951,44,straßenbahn,,both/unkown,17,,"Sandkrugbrücke, Lehrter Bahnhof",Birkbuschstrasse Ecke Siemensstrasse
+7,7,195126,1951,51,straßenbahn,,both/unkown,15,,Roseneck,Bhf. Zoo
+8,8,195129,1951,57,straßenbahn,,both/unkown,10,,Emser Platz,Roseneck
+9,9,195130,1951,60,straßenbahn,,both/unkown,15,,Königin-Elisabeth-Strasse Ecke Kaiserdamm,"Lindenhof, Eythstrasse"
+10,10,195144,1951,77,straßenbahn,,both/unkown,20,,Bhf. Zoo,"Lichterfelde, Goerzallee"
+11,11,195145,1951,78,straßenbahn,,both/unkown,15,,"Lichterfelde-Süd, Lindenstrasse",Bhf. Zoo
+12,12,195160,1951,A II,u-bahn,,both/unkown,10,,Wittenbergplatz,Krumme Lanke
+13,13,195162,1951,A1 (Obus),autobus,,both/unkown,15,,"Moabit, Waldstrasse Ecke Turmstrasse","Lichterfelde-Süd, Lindenstrasse"
+14,14,195169,1951,A16,autobus,,both/unkown,6,,U-Bhf. Seestrasse,U-Bhf. Breitenbachplatz
+15,15,195170,1951,A17,autobus,,both/unkown,15,,Roseneck,Saaleckplatz (Lichterfelde)
+16,16,1951103,1951,KBS 100,s-bahn,,both/unkown,0,,Gesundbrunnen,Gesundbrunnen
+17,17,1951104,1951,KBS 100a,s-bahn,,both/unkown,0,,Wilmersdorf,Grünau

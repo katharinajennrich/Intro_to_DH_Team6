@@ -1,0 +1,16 @@
+,Unnamed: 0,line_id,jahr,linien_name,typ,dauer (min),ost_west,frequenz,länge (km),start,ziel
+137,137,19761,1976,1,autobus,66.0,West,12,,"Moabit, Waldstrasse","Lichterfelde, Lindenstrasse"
+138,138,197611,1976,16,autobus,,West,15,,Reinickendorf Klemkestrasse/Sommerstrasse,Breitenbachplatz Englerallee
+139,139,197612,1976,17,autobus,,West,10,,"Grunewald, Fontanestrasse",Lichterfelde Celsiusstrasse
+140,140,197619,1976,21,autobus,,West,15,,Quickborner Strasse Märkisches Viertel,Fehrbelliner Platz
+141,141,197654,1976,4,autobus,,West,12,,"Neu-Westend, Brixplatz","Neukölln, Teupitzer Strasse"
+142,142,197669,1976,50,autobus,26.0,West,15,,Grunewald Roseneck,Schöneberg Mansteinstraße
+143,143,197685,1976,60,autobus,47.0,West,15,,Wittenbergplatz,Rathaus Zehlendorf
+144,144,197693,1976,65,autobus,58.0,West,15,,Wedding Seestrasse E. Müllerstrasse,Neukölln Schulenburgpark
+145,145,1976110,1976,74,autobus,44.0,West,15,,Charlottenburg Königin-Elisabeth-Strasse,Lindenhof
+146,146,1976132,1976,86,autobus,56.0,West,10,,Invalidenstrasse,Steglitz Birkbuschstrasse
+147,147,1976136,1976,89,autobus,45.0,West,15,,Bornholmer Strasse,Fehrbelliner Platz
+148,148,1976160,1976,2,u-bahn,29.0,West,10,,Wittenbergplatz,Krumme Lanke
+149,149,1976164,1976,7,u-bahn,30.0,West,5,,Fehrbelliner Platz,Rudow
+150,150,1976166,1976,9,u-bahn,16.0,West,3,,Osloer Str.,Rathaus Steglitz
+151,151,1976170,1976,KBS 150,s-bahn,,West,0,,Gesundbrunnen,Sonnenallee
